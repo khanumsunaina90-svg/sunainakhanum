@@ -1,0 +1,6 @@
+{
+  "name": "Ledger — Expense Tracker",
+  "description": "A minimalist personal finance and expense tracking web application built with HTML5, CSS3, and Vanilla JavaScript.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
